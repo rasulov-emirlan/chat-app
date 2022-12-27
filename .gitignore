@@ -3,7 +3,7 @@
 **/build/**
 **/.svelte-kit/**
 **/package/**
-pg_data
+**/pb_data/**
 pocketbase
 .env
 .env.*
